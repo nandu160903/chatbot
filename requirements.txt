@@ -1,6 +1,10 @@
 chainlit
 python-dotenv
-ollama
 requests
 SQLAlchemy
 asyncpg
+transformers
+torch
+accelerate
+sentencepiece
+protobuf
